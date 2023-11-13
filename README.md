@@ -19,7 +19,7 @@ Chat App is a simple real-time chat application built with React and Socket.io. 
 ## Setup
 
 1. Clone the repository:
-    git clone https://github.com/yourusername/chat-app.git
+    git clone https://github.com/gurjotmaan25/Chat-App.git
     cd chat-app
 
 2. Install dependencies:
