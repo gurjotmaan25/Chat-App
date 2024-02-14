@@ -12,7 +12,6 @@ const io = new Server(3001, {
         methods: ["GET", "POST"]
     }
 })
-
 const rooms = new Map()
 const users = {}
 

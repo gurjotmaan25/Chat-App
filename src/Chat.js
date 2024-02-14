@@ -13,6 +13,7 @@ function Chat({ socket, username, room }) {
         const now = new Date();
         const hours = now.getHours();
         const minutes = now.getMinutes();
+        console.log(`${now} `);
         const ampm = hours >= 12 ? 'PM' : 'AM';
 
         // Convert hours to 12-hour format
